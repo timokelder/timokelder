@@ -75,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Timo Kelder is a PhD student in climate science at Loughborough University, with visiting status at Oxford University and ECMWF. Supervised by Professor Rob Wilby and Dr Tim Marjoribanks, he analyses big data from large-ensemble climate model simulations to improve precipitation design standards and to assess trends in extreme precipitation. As part of an MSc in Earth and Environment at Wageningen University, Timo held an internship at the Norwegian Meteorological Institute (MetNor). As hydrologist within the project `Translating Weather Extremes into the Future’ at MetNor, he was part of an integral team to tackle high-impact flood events in Norway. 
