@@ -31,7 +31,7 @@ event: EGU2020
 event_url: https://meetingorganizer.copernicus.org/EGU2020/EGU2020-8636.html
 publishDate: 2020-05-01T10:12:02.097Z
 draft: false
-featured: false
+featured: true
 authors:
   - Nathalie Schaller
   - Jana Sillmann
