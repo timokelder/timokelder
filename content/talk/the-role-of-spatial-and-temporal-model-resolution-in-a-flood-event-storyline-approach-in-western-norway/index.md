@@ -33,25 +33,25 @@ publishDate: 2020-05-01T10:12:02.097Z
 draft: false
 featured: true
 authors:
-  - Nathalie Schaller
+  - name: Nathalie Schaller
     weight: 1
-  - Jana Sillmann
+  - name: Jana Sillmann
     weight: 2
-  - Malte Müller
+  - name: Malte Müller
     weight:3
-  - Reindert Haarsma
+  - name: Reindert Haarsma
     weight: 4
-  - Wilco Hazeleger
+  - name: Wilco Hazeleger
     weight: 5
-  - Trine Jahr Hegdahl
+  - name: Trine Jahr Hegdahl
     weight: 6
-  - Timo Kelder
+  - name: Timo Kelder
     weight: 7
-  - Gijs van den Oord
+  - name: Gijs van den Oord
     weight: 8
-  - Albrecht Weerts
+  - name: Albrecht Weerts
     weight: 9
-  - and Kirien Whanan
+  - name: and Kirien Whanan
     weight: 10
 image:
   filename: featured
