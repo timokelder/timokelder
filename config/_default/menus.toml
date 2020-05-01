@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Upcoming Talks"
+  url = "#talks"
   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.

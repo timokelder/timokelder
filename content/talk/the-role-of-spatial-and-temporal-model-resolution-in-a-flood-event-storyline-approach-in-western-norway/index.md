@@ -34,9 +34,13 @@ draft: false
 featured: true
 authors:
   - Nathalie Schaller
+    weight=1
   - Jana Sillmann
+    weight=2
   - Malte Müller
+    weight=3
   - Reindert Haarsma
+    weight=4
   - Wilco Hazeleger
   - Trine Jahr Hegdahl
   - **Timo Kelder**
