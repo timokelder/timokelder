@@ -34,25 +34,25 @@ draft: false
 featured: true
 authors:
   - Nathalie Schaller
-    weight=1
+    weight: 1
   - Jana Sillmann
-    weight=2
+    weight: 2
   - Malte Müller
-    weight=3
+    weight:3
   - Reindert Haarsma
-    weight=4
+    weight: 4
   - Wilco Hazeleger
-    weight=5
+    weight: 5
   - Trine Jahr Hegdahl
-    weight=6
+    weight: 6
   - Timo Kelder
-    weight=7
+    weight: 7
   - Gijs van den Oord
-    weight=8
+    weight: 8
   - Albrecht Weerts
-    weight=9
+    weight: 9
   - and Kirien Whanan
-    weight=10
+    weight: 10
 image:
   filename: featured
   focal_point: Smart
