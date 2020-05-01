@@ -51,7 +51,7 @@ publishDate: 2020-05-01T09:31:03.589Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
