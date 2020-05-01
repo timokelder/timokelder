@@ -43,7 +43,7 @@ abstract: Constraining the non-stationarity of climate extremes is a topical
   possible attribution of detected trends.
 location: Vienna (online this year)
 date: 2020-05-07T08:40:00.000Z
-date_end: 2020-05-07T20:55:00.000Z
+date_end: 2020-05-07T08:55:00.000Z
 all_day: false
 event: EGU2020
 event_url: https://meetingorganizer.copernicus.org/EGU2020/EGU2020-521.html
