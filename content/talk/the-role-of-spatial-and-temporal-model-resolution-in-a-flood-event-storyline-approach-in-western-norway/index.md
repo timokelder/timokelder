@@ -45,7 +45,7 @@ authors:
     weight=5
   - Trine Jahr Hegdahl
     weight=6
-  - **Timo Kelder**
+  - Timo Kelder
     weight=7
   - Gijs van den Oord
     weight=8
