@@ -42,11 +42,17 @@ authors:
   - Reindert Haarsma
     weight=4
   - Wilco Hazeleger
+    weight=5
   - Trine Jahr Hegdahl
+    weight=6
   - **Timo Kelder**
+    weight=7
   - Gijs van den Oord
+    weight=8
   - Albrecht Weerts
+    weight=9
   - and Kirien Whanan
+    weight=10
 image:
   filename: featured
   focal_point: Smart
