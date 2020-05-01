@@ -49,7 +49,7 @@ event: EGU2020
 event_url: https://meetingorganizer.copernicus.org/EGU2020/EGU2020-521.html
 publishDate: 2020-05-01T09:31:03.589Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
