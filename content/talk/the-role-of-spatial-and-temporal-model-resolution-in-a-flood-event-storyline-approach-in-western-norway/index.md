@@ -39,7 +39,7 @@ authors:
   - Reindert Haarsma
   - Wilco Hazeleger
   - Trine Jahr Hegdahl
-  - "*Timo Kelder*"
+  - **Timo Kelder**
   - Gijs van den Oord
   - Albrecht Weerts
   - and Kirien Whanan
