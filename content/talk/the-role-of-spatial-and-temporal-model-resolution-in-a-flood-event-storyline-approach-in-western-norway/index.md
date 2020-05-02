@@ -31,27 +31,16 @@ event_url: https://meetingorganizer.copernicus.org/EGU2020/EGU2020-8636.html
 publishDate: '2020-05-01T10:12:02.097Z'
 draft: no
 featured: yes
-authors:
-  name: Nathalie Schaller
-  weight: 1
-  name: Jana Sillmann
-  weight: 2
-  name: Malte Müller
-  weight: 3
-  name: Reindert Haarsma
-  weight: 4
-  name: Wilco Hazeleger
-  weight: 5
-  name: Trine Jahr Hegdahl
-  weight: 6
-  name: Timo Kelder
-  weight: 7
-  name: Gijs van den Oord
-  weight: 8
-  name: Albrecht Weerts
-  weight: 9
-  name: and Kirien Whanan
-  weight: 10
+
+authors: 'Nathalie Schaller, Jana Sillmann, Malte Müller,
+Reindert Haarsma, 
+Wilco Hazeleger, 
+Trine Jahr Hegdahl, 
+Timo Kelder, 
+Gijs van den Oord, 
+Albrecht Weerts, 
+and Kirien Whanan'
+
 image:
   filename: featured
   focal_point: Smart
