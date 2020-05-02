@@ -32,14 +32,14 @@ publishDate: '2020-05-01T10:12:02.097Z'
 draft: no
 featured: yes
 
-authors: 'Nathalie Schaller, Jana Sillmann, Malte Müller,
-Reindert Haarsma, 
-Wilco Hazeleger, 
-Trine Jahr Hegdahl, 
-Timo Kelder, 
-Gijs van den Oord, 
-Albrecht Weerts, 
-and Kirien Whanan'
+authors: Nathalie Schaller, Jana Sillmann, Malte Müller,
+Reindert Haarsma,
+Wilco Hazeleger,
+Trine Jahr Hegdahl,
+Timo Kelder,
+Gijs van den Oord,
+Albrecht Weerts,
+and Kirien Whanan
 
 image:
   filename: featured
