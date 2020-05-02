@@ -45,6 +45,9 @@ location: Vienna (online this year)
 date: 2020-05-07T08:40:00.000Z
 date_end: 2020-05-07T08:55:00.000Z
 all_day: false
+links:
+  - url: https://presentations.copernicus.org/EGU2020/EGU2020-521_presentation.pdf
+    name: The presentation
 event: EGU2020
 event_url: https://meetingorganizer.copernicus.org/EGU2020/EGU2020-521.html
 publishDate: 2020-05-01T09:31:03.589Z
