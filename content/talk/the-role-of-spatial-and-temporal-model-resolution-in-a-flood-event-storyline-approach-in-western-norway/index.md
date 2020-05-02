@@ -33,13 +33,13 @@ draft: no
 featured: yes
 
 authors: Nathalie Schaller, Jana Sillmann, Malte Müller,
-Reindert Haarsma,
-Wilco Hazeleger,
-Trine Jahr Hegdahl,
-Timo Kelder,
-Gijs van den Oord,
-Albrecht Weerts,
-and Kirien Whanan
+  Reindert Haarsma,
+  Wilco Hazeleger,
+  Trine Jahr Hegdahl,
+  Timo Kelder,
+  Gijs van den Oord,
+  Albrecht Weerts,
+  and Kirien Whanan
 
 image:
   filename: featured
