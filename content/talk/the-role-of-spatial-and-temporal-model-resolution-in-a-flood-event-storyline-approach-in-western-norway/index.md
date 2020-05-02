@@ -1,7 +1,7 @@
 ---
 title: The role of spatial and temporal model resolution in a flood event storyline
   approach in Western Norway
-author: ''
+author: 'Nathalie Schaller'
 date: '2020-05-03'
 abstract: 'A physical climate storyline approach is applied to an autumn flood event
   caused by an atmospheric river in the West Coast of Norway. The aim is to demonstrate
@@ -31,8 +31,6 @@ event_url: https://meetingorganizer.copernicus.org/EGU2020/EGU2020-8636.html
 publishDate: '2020-05-01T10:12:02.097Z'
 draft: no
 featured: yes
-
-authors: Nathalie Schaller
 
 # , Jana Sillmann, Malte Müller,
 #   Reindert Haarsma,
