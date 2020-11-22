@@ -1,7 +1,7 @@
 ---
 title: UNSEEN-open
 author: Timo Kelder
-date: '2020-05-01'
+date: '2020-10-16'
 slug: unseen-open
 categories: []
 tags: []
@@ -9,7 +9,7 @@ summary: ''
 authors: []
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://timokelder.github.io/UNSEEN-open'
+external_link: 'https://unseen-open.readthedocs.io'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

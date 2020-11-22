@@ -15,7 +15,7 @@ role: PhD in Hydroclimatology
 # Organizations/Affiliations
 organizations:
 - name: Loughborough University
-  url: ""
+  url: "https://www.lboro.ac.uk/subjects/geography-environment/staff/timo-kelder/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: In my PhD, I aim to quantify and explain rare climate events.
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Timo Kelder is a PhD student in climate science at Loughborough University, with visiting status at Oxford University and ECMWF. Supervised by Prof. Rob Wilby, Dr Tim Marjoribanks, Dr Louise Slater and Prof. Christel Prudhomme, he analyses big data from large-ensemble climate model simulations to improve precipitation design standards and to assess trends in extreme precipitation. As part of an MSc in Earth and Environment at Wageningen University, Timo held an internship at the Norwegian Meteorological Institute (MetNor). As hydrologist within the project `Translating Weather Extremes into the Future’ at MetNor, he was part of an integral team to tackle high-impact flood events in Norway. 
+Timo Kelder is a PhD student in climate science at Loughborough University, with visiting status at Oxford University and ECMWF. Supervised by Prof. Rob Wilby, Dr Tim Marjoribanks, Dr Louise Slater and Prof. Christel Prudhomme, he analyses large-ensemble climate model simulations to quantify climate extremes and explain their non-stationary behaviour beyond what is possible from observed records (UNSEEN). As part of an MSc in Earth and Environment at Wageningen University, Timo held an internship at the Norwegian Meteorological Institute (MetNor). As hydrologist within the project `Translating Weather Extremes into the Future’ at MetNor, he was part of an integral team to tackle high-impact flood events in Norway. 
