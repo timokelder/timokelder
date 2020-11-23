@@ -4,8 +4,7 @@
 title: "The role of spatial and temporal model resolution in a flood event storyline approach in Western Norway"
 subtitle: ""
 summary: ""
-authors: 
-[Nathalie Schaller, Jana Sillmann, Malte Müller,
+authors: [Nathalie Schaller, Jana Sillmann, Malte Müller,
   Reindert Haarsma,
   Wilco Hazeleger,
   Trine Jahr Hegdahl,
@@ -15,7 +14,7 @@ authors:
   and Kirien Whanan]
 tags: []
 categories: []
-date: 2020
+date: 2020-05-01
 lastmod: 2020-11-22T17:15:36-04:00
 featured: false
 draft: false
