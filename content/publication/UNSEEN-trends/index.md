@@ -4,7 +4,7 @@
 title: "Using UNSEEN trends to detect decadal changes in 100-year precipitation extremes"
 subtitle: ""
 summary: ""
-authors: [T. Kelder, M. Müller, L. J. Slater, T. I. Marjoribanks, R. L. Wilby, C. Prudhomme, P. Bohlinger, L. Ferranti and T. Nipen]
+authors: ["T. Kelder", "M. Müller", "L. J. Slater", T. I. Marjoribanks, R. L. Wilby, C. Prudhomme, P. Bohlinger, L. Ferranti and T. Nipen]
 tags: []
 categories: []
 date: 2020-11-22T17:15:36-04:00
